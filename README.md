@@ -1,4 +1,4 @@
-<h1>JWipe - Wild avocados</h1>
+<h1>Excel - Wild avocados</h1>
 
 
 
@@ -19,7 +19,7 @@ This project analysed sales data using Excel formulae and functions, including S
 
 <p align="center">
 Convert data to table: <br/>
-<img src="https://imgur.com/a/FWKdLFA" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/ffe6c7ed-4d77-47fa-a703-6adae604285c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
